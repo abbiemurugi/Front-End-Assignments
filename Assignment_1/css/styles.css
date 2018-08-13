@@ -9,13 +9,21 @@
 
 .part1 h1 {
     color: white;
+    text-align: center;
   }
 
+#gender{
+    margin-top: 30px; 
+}
+
+#panel{
+}
+
 .image {
-      background-image: url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/products/tshirt.png);
+      background-image: url(../images/assets/products/tshirt.png);
   }
 .section4 {
-      background-image:url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/backgrounds/about.jpg);
+      background-image:url(../images/assets/backgrounds/about.jpg);
       padding: 70px;
   }
 .about{
