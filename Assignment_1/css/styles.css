@@ -32,9 +32,26 @@
       height: 400px;
   }
 .about{
+    padding-top: 80px;
       border-style: solid;
         border-width: 1px;
+        color: white;
+        font-size: 25px;
   }
+
+#nav{
+    height: 100px;
+    
+}
+
+#nav img{
+    padding-right: 400px;
+}
+
+#nav p{
+    font-size: 20px;
+    padding-top: 25px;
+}
 .section6{
       text-align: center;
       padding: 20px;
