@@ -41,7 +41,7 @@
 
 #nav{
     height: 100px;
-    
+    padding-bottom: -0;
 }
 
 #nav img{
@@ -64,7 +64,13 @@
       background-color: rgba(195,131,76);
   }
 
-.white-text{
+.white-text p{
       font-size: 20px;
-      padding-top: 50px;
+      margin-top: 150px;
+      font-style: oblique;
   }
+
+.white-text h4{
+    font-size: 30px;
+
+}
