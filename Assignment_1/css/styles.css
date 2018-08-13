@@ -54,8 +54,12 @@
 }
 .section6{
       text-align: center;
-      padding: 20px;
+      padding: 50px;
   }
+
+#footer{
+    height: 300px;
+}
 .section3{
       background-color: rgba(195,131,76);
   }
