@@ -50,8 +50,21 @@
 }  
 
 .about p{
-color: white;
+    color: white;
 }
+
+#shirt{
+    width: 35%;
+}
+
+#pants{
+    width: 30%;
+}
+
+#bag{
+    width: 40%;
+}
+
 #nav{
     height: 100px;
     padding-bottom: -0;
