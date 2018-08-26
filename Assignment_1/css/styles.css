@@ -113,11 +113,36 @@
     width: 310px;
 }
 
-
-
 #bag{
     width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
 }
+
+#content{
+    height:135px;
+}
+
+#content span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#content p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#box2{
+    width: 310px;
+}
+
 
 #nav{
     height: 100px;
