@@ -141,7 +141,15 @@
 
 #box2{
     width: 310px;
+    float: inherit;
 }
+
+.wrap{
+    float: right;
+    padding-right: 50px;
+    font-size: 23px;
+}
+
 
 
 #nav{
