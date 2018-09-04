@@ -7,7 +7,7 @@
 * Git
 * Github
 ## Bugs
-WI-FI
+ WI-FI
 ## License
 Copyright (c) <2018> <Abigail Murugi>
 
