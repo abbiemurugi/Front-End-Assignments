@@ -3,7 +3,34 @@
     height: 800px;
     padding-bottom: 0px;
 
-      }
+}
+
+.header li{
+    color: #FFFFFF;
+    position: absolute;
+    top: 50px;
+    padding-left: 850px;
+}
+
+.header h2{
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-size: 60px;
+    padding-left: 50px;
+}
+
+.pt{
+    padding-left: 800px;
+    padding-right: 200px;
+}
+
+.hm{
+    padding-right: 200px;
+}
+
+#lg{
+    padding-left: 100px;
+}
 
 .brand-logo{
     font-size: 50px;
@@ -12,13 +39,14 @@
 .part1 p {
      color: white;
      text-align: center;
-     padding-left: 150px;
-     padding-top: 50px;
+     padding-left: 200px;
+     padding-top: 30px;
+     font-size: 18px;
       }
 
 .part1 h1 {
     color: white;
-    padding-top: 150px;
+    padding-top: 90px;
     padding-left: 300px;
   }
 
