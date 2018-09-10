@@ -23,6 +23,10 @@
     padding-left: 100px;
 }
 
+.brand-logo{
+    font-size: 50px;
+} 
+
 .part1 p {
      color: white;
      text-align: center;
@@ -86,15 +90,15 @@
 }
 
 .image {
-      background-image: url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/products/tshirt.png);
+      background-image: url(../images/assets/products/tshirt.png);
   }
 .section4 {
-      background-image:url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/backgrounds/about.jpg);
-      padding: 70px;
+      background-image:url(../images/assets/backgrounds/about.jpg);
+      height: 400px;
   }
 .about{
-      border-style: solid;
-        border-width: 1px;
+    padding-top: 80px;
+    font-size: 25px;
   }
 
 .boxed{
@@ -327,8 +331,112 @@
 
 .section6{
       text-align: center;
-      padding: 20px;
+      padding: 50px;
   }
+
+#footer{
+    height: 350px;
+    
+}
+
+.nospace{
+    font-size: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
 .section3{
       background-color: rgba(195,131,76);
+}
+
+.white-text1{
+    color: #FFFFFF;
+    float: bottom; 
+}
+
+#ft{
+    padding-top: 25px;
+    margin-top: 25px;
+    padding-left: 100px;
+}
+
+#ft p{
+    font-size: 25px;
+    padding-left: 50px;
+    padding-bottom: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+#ft img{
+    padding-inline-end: 20px;
+}
+
+#img2  {
+    padding-left: 20px;
+}
+
+#img3{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#img5{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#img4{
+    padding-top: 30px;
+}
+
+#img6{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#img7{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.cp{
+    color: #FFFFFF;
+    font-size: 5px;
+    padding-top: 60px;
+    font-style: oblique;
+}
+
+.white-text2 p{
+      font-size: 15px;
+      margin-top: 150px;
+      font-style: oblique;
+      color: #FFFFFF;
+      padding-left: 80px;
   }
+
+.white-text2 h4{
+    font-size: 30px;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding-left: 80px;
+}
+
+.white-text h5{
+    font-size: 30px;
+    line-height: 0;
+    padding-bottom: 0;
+    padding-left: 20px;
+}
+#YM{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.white-text P{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height:35px;
+    padding-top: 0;
+}
