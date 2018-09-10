@@ -76,6 +76,7 @@
     width: 70%;
     color: darkgrey;
     font-size: 23px;
+    padding-right: 1100px;
 }
 
 #panel{
@@ -131,13 +132,13 @@
 
 #shadow span{
     float: left;
-    padding-top: 50px;
+    padding-top: 20px;
     color: brown;
 }
 
 #shadow p{
     float: right;
-    padding-top: 60px;
+    padding-top: 40px;
     font-size: 20px;
     font-style: unset;
     color: black;
@@ -157,13 +158,13 @@
 
 #card span{
     float: left;
-    padding-top: 50px;
+    padding-top: 30px;
     color: brown;
 }
 
 #card p{
     float: right;
-    padding-top: 60px;
+    padding-top: 45px;
     font-size: 20px;
     font-style: unset;
     color: black;
@@ -187,13 +188,13 @@
 
 #content span{
     float: left;
-    padding-top: 50px;
+    padding-top: 30px;
     color: brown;
 }
 
 #content p{
     float: right;
-    padding-top: 60px;
+    padding-top: 45px;
     font-size: 20px;
     font-style: unset;
     color: black;
@@ -228,13 +229,13 @@
 
 #jtcontent span{
     float: left;
-    padding-top: 20px;
+    padding-top: 80px;
     color: brown;
 }
 
 #jtcontent p{
     float: right;
-    padding-top: 30px;
+    padding-top: 50px;
     font-size: 20px;
     font-style: unset;
     color: black;
@@ -264,7 +265,7 @@
 
 #TS p{
     float: right;
-    padding-top: 90px;
+    padding-top: 110px;
     font-size: 20px;
     font-style: unset;
     color: black;
@@ -289,13 +290,13 @@
 
 #SHIRT span{
     float: left;
-    padding-top: 20px;
+    padding-top: 35px;
     color: brown;
 }
 
 #SHIRT p{
     float: right;
-    padding-top: 30px;
+    padding-top: 50px;
     font-size: 20px;
     font-style: unset;
     color: black;
